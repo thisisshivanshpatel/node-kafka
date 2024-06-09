@@ -1,0 +1,21 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "kafka architechture setup repo",
+  "repository": {
+    "url": "https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "zookeeper"
+  ],
+  "author": "shivansh patel",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
